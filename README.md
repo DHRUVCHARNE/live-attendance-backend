@@ -29,7 +29,7 @@ A production-ready **live attendance system** built with **Express.js**, **Mongo
 - 100% passing HTTP tests
 
 ## 🧠 Tech Stack
-- **Node.js**, **Express**
+- **Bun.js**, **Express**
 - **TypeScript**
 - **MongoDB + Mongoose**
 - **JWT Authentication**
