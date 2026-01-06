@@ -26,7 +26,7 @@ A production-ready **live attendance system** built with **Express.js**, **Mongo
 - Persistent attendance records in MongoDB
 - Fully validated request schemas
 - Centralized error handling
-- 100% passing HTTP tests
+- 65/75 passing HTTP and Websocket tests [here](https://github.com/rahul-MyGit/mid-test)
 
 ## 🧠 Tech Stack
 - **Bun.js**, **Express**
